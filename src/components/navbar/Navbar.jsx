@@ -34,7 +34,9 @@ const Navbar = () => {
           </div>
           <div className="item">
             <img className='avatar'
-            src='https://upload.wikimedia.org/wikipedia/commons/8/8d/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_1998.png'/>
+            alt='Profile'
+            src='https://upload.wikimedia.org/wikipedia/commons/8/8d/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_1998.png'
+            />
           </div>
           </div>
       </div>
