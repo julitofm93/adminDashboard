@@ -25,10 +25,10 @@ const Sidebar = () => {
     <div className='sidebar'>
         <div className="top">
             <Link to="/" style={{ textDecoration: "none" }}>
-            <span className="logo">lamaadmin</span>
+            <span className="logo">AdminDash</span>
             </Link>
         </div>
-        <hr/>
+
         <div className="center">
             <ul>
                 <p className="title">MAIN</p>
